@@ -1,0 +1,20 @@
+--------------------dropout_CE-------------------
+10/03/17 15:34:04
+Batch: 200 
+Epoch: 5 
+Dropout: 0.700000 
+Learning Rate: 0.008145 
+Testing Accuracy: 0.904300 
+Training Accuracy: 0.902164 
+Loss_CE: 1.559881 
+
+--------------------dropout_CE-------------------
+10/03/17 16:03:03
+Batch: 200 
+Epoch: 50 
+Dropout: 0.700000 
+Learning Rate: 0.000810 
+Testing Accuracy: 0.951600 
+Training Accuracy: 0.958418 
+Loss_CE: 1.504024 
+

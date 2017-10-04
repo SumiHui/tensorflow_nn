@@ -1,0 +1,30 @@
+----------------dropout_CE GradientDescentOptimizer chart10041047---------------
+10/04/17 11:02:49
+Batch: 200 
+Epoch: 50 
+Dropout: 0.700000 
+Learning Rate: 0.000810 
+Testing Accuracy: 0.860900 
+Training Accuracy: 0.853764 
+Loss_CE: 1.649253 
+
+----------------dropout_CE GradientDescentOptimizer chart10041132---------------
+10/04/17 11:47:34
+Batch: 200 
+Epoch: 50 
+Dropout: 0.700000 
+Learning Rate: 0.000810 
+Testing Accuracy: 0.805300 
+Training Accuracy: 0.797909 
+Loss_CE: 1.692559 
+
+--------------------dropout_CE AdamOptimizer chart10041147-------------------
+10/04/17 12:02:48
+Batch: 200 
+Epoch: 50 
+Dropout: 0.700000 
+Learning Rate: 0.000810 
+Testing Accuracy: 0.952000 
+Training Accuracy: 0.957964 
+Loss_CE: 1.503553 
+
